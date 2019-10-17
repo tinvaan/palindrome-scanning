@@ -10,7 +10,8 @@ You may choose the language of your choice in attempting your solutions.
 5. Find all palindromic permutations of a given string.
 6. Find all palindromic subsequences of a given string.
 7. [Find the longest palindromic subsequence in a given string.](https://leetcode.com/problems/longest-palindromic-subsequence/)
-8. [Check if a string can be transformed into a palindrome by making a fixed number of changes.](https://leetcode.com/problems/valid-palindrome-iii/)
+8. Find the longest palindromic prefix and suffix for two strings.
+9. [Check if a string can be transformed into a palindrome by making a fixed number of changes.](https://leetcode.com/problems/valid-palindrome-iii/)
 
 
 ## Related problems
